@@ -8,7 +8,9 @@
     "@testing-library/user-event": "^7.2.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1"
+    "react-query": "^2.5.13",
+    "react-query-devtools": "^2.4.2",
+    "react-scripts": "^3.4.3"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -30,5 +32,13 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "guppy": {
+    "id": "4783b4a0-da64-11ea-90ee-61cd777fbee4",
+    "name": "starwars",
+    "type": "create-react-app",
+    "color": "#FF6D00",
+    "icon": null,
+    "createdAt": 1596993481963
   }
 }
